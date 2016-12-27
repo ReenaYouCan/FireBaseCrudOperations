@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "86179595775",
+    "firebase_url": "https://firedemo-85384.firebaseio.com",
+    "project_id": "firedemo-85384",
+    "storage_bucket": "firedemo-85384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86179595775:android:00f2678d80626678",
+        "android_client_info": {
+          "package_name": "com.reena.programs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86179595775-t7t88hllmrebfeo3ebkijd2lfs7mopds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSaCcNACNDlQ1lqI4YMHKgoV1VSKgft8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
